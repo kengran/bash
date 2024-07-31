@@ -1,0 +1,15 @@
+# git related
+alias ga='git add'
+alias gb='git branch'
+alias gcm='git commit -m'
+alias gct='git checkout'
+alias gd='git diff'
+alias gl='git log --decorate --oneline --graph'
+alias gla='git log --decorate --oneline --graph --all'
+alias gm='git merge'
+alias gpush='git push'
+alias gs='git status'
+alias linediff='git diff --no-index --word-diff'
+
+alias .1='cd ..'
+alias .2='cd ../..'
